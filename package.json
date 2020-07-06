@@ -1,0 +1,26 @@
+{
+  "name": "praise-japanese",
+  "version": "1.0.0",
+  "description": "Praise you in japanese",
+  "bin": {
+    "praise-japanese": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasabo-git/praise-japanese.git"
+  },
+  "keywords": [
+    "npm",
+    "praise-japanese",
+    "praise"
+  ],
+  "author": "sasabo (https://github.com/sasabo-git)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sasabo-git/praise-japanese/issues"
+  },
+  "homepage": "https://github.com/sasabo-git/praise-japanese#readme"
+}
