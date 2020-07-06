@@ -1,4 +1,4 @@
-# rpncc
+# praise-japanese
 This is a console application that gives you a sentence of praise in Japanese.
 
 ## install
