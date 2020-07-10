@@ -38,14 +38,12 @@ class SentenceOfPraise {
   }
 
   selectSentences() {
-    const elementNumber = this._getRandomInt(0, this.sentences.length)
+    const elementNumber = this._getRandom(0, this.sentences.length)
     console.log(this.sentences[elementNumber])
   }
 
-  // min <= return Int < max
-  _getRandomInt(min, max) {
-    min = Math.ceil(min)
-    max = Math.floor(max)
+  // min <= return < max
+  _getRandom(min, max) {
     return Math.floor(Math.random() * (max - min)) + min
   }
 }
