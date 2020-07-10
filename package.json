@@ -1,6 +1,6 @@
 {
   "name": "praise-japanese",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Praise you in japanese",
   "bin": {
     "praise-japanese": "bin/index.js"
