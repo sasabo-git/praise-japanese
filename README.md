@@ -13,7 +13,7 @@ praise-japaneseを使ってくれてありがとう!あなたはすばらしい!
 or
 
 ``` bash
-# shell configuration shch as .bashrc
+# shell configuration such as .bashrc
 export PATH=$PATH:./node_modules/.bin
 ```
 
