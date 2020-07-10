@@ -3,10 +3,22 @@ This is a console application that gives you a sentence of praise in Japanese.
 
 ## install
 ```sh
-$ npm install -g praise-japanese
+$ npm install praise-japanese
 ```
 ## Usage
-```sh
+``` sh
+$ ./node_modules/.bin/praise-japanese
+praise-japaneseを使ってくれてありがとう!あなたはすばらしい!!
+```
+or
+
+``` bash
+# shell configuration shch as .bashrc
+export PATH=$PATH:./node_modules/.bin
+```
+
+``` sh
+$ source ~/.bashrc
 $ praise-japanese
 praise-japaneseを使ってくれてありがとう!あなたはすばらしい!!
 ```
